@@ -73,16 +73,16 @@ Our processing for the above purposes is justified by our legitimate interests i
 We only process your information to the extent that is necessary to achieve the purposes for which the information has been collected.
 
 Storage of information
-SayGames will store your personal data for as long as necessary in order to provide you with the App or otherwise fulfil the purposes as described above, unless further storage is required in order to establish, exercise or defend a legal claim or to comply with applicable law, including accounting rules.
+ATB Games will store your personal data for as long as necessary in order to provide you with the App or otherwise fulfil the purposes as described above, unless further storage is required in order to establish, exercise or defend a legal claim or to comply with applicable law, including accounting rules.
 
-Your personal data are deleted or anonymized as soon as it no longer serves one of the above mentioned purposes and in any event no later than three (3) years after your interaction with SayGames has ceased.
+Your personal data are deleted or anonymized as soon as it no longer serves one of the above mentioned purposes and in any event no later than three (3) years after your interaction with ATB Games has ceased.
 
 Sharing of information
 We disclose information about you to the following categories of recipients based on the legal bases under Sections 6(1)(b), 6(1)(c) and 6(1)(f) of the GDPR (see a description of the legal bases above):
 
 Social networks, see more under "Social Sharing features";
 Third parties if we are required to disclose your personal data by applicable law, rule, regulation, legal process or in connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company;
-The authorities if we believe your actions are inconsistent with the spirit or language of our policies or if the disclosure is necessary to protect the rights, property and safety of SayGames or others;
+The authorities if we believe your actions are inconsistent with the spirit or language of our policies or if the disclosure is necessary to protect the rights, property and safety of ATB Games or others;
 Other players in order to provide certain in-app features, such as leaderboards, if you log into the App using a third-party service;
 Furthermore, if you have given your consent in accordance with Section 6(1)(a) of the GDPR, we share your Device identifiers to advertising network companies for the purpose of them serving behavioral advertisements to you within the App. We use or may use the following advertising network companies:
 
@@ -115,7 +115,7 @@ The App offers or can offer social sharing features and other integrated tools (
 Children
 Use of the App is limited to users aged 13 years and above, except in European Economic Area, where the App is limited to users aged 16 years and above. If you are accepting this Privacy Policy and using the App, you warrant you are 13 (or 16, depends what is applicable) or more years old.
 
-If you have additional questions about SayGames's privacy practices related to children under the applicable minimum age, please contact us at info@saygames.by.
+If you have additional questions about ATB Games privacy practices related to children under the applicable minimum age, please contact us at ATBGames@outlook.de.
 
 Transfer to third countries
 In connection with the processing, we will in certain circumstances transfer your personal data to recipients outside the EEU.
@@ -127,15 +127,15 @@ Consequently, the transfers will only occur based on the following safeguards:
 If the entity is certified to comply with the principles for data protection under the US-EU Privacy Shield Framework ("Privacy Shield") (you can view the entities certified under Privacy Shield at https://www.privacyshield.gov/), or
 If we have entered into standard data protection clauses adopted by the European Commission with the entity, which is deemed to offer sufficient safeguards with respect to the protection of the privacy and fundamental rights and freedoms of individuals.
 Security
-SayGames takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+ATB Games takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
 
 Push notifications
 We send push notifications or alerts to your mobile device to provide game-related information, service updates, promotional communications and other related messages, if you have agreed to such notifications. You can deactivate these notifications by changing your notification settings on your device.
 
-Does SayGames actually "sell" personal data?
-SayGames does not, and will not, provide your personal data in direct exchange for money. Therefore, in the literal sense, SayGames does not sell your data. However, we have disclosed some categories of personal data we collect, explained under ”Sharing of information“, to the third parties for business purpose as explained under “Use of information – purpose and legal basis”.
+Does ATB Games actually "sell" personal data?
+ATB Games does not, and will not, provide your personal data in direct exchange for money. Therefore, in the literal sense, ATB Games does not sell your data. However, we have disclosed some categories of personal data we collect, explained under ”Sharing of information“, to the third parties for business purpose as explained under “Use of information – purpose and legal basis”.
 
-To the extent this practice is interpreted to constitute a “sale” under the CCPA, please contact us at info@saygames.by to exercise your right to withdraw your consent on sharing your personal data with third parties.
+To the extent this practice is interpreted to constitute a “sale” under the CCPA, please contact us at ATBGames@outlook.de to exercise your right to withdraw your consent on sharing your personal data with third parties.
 
 YOUR RIGHTS
 Rights of EEU residents
@@ -211,16 +211,16 @@ Charge you different prices or rates for the App, including through granting dis
 Provide you a different level or quality of the App,
 Suggest that you may receive a different price or rate for services or a different level or quality of the App.
 How to exercise my rights
-If you wish to use any of the rights described below, you may contact us at any time by emailing us at info@saygames.by.
+If you wish to use any of the rights described below, you may contact us at any time by emailing us at ATBGames@outlook.de
 
 Mandatory verification: We will need to verify your identity before processing your request. However, because you cannot create an account with the App, and you do not provide us with any information directly, we only collect information automatically, we may use limited verification methods. To verify your identity, we will generally require the matching data in our systems to the information we can process when you are making a request. In certain circumstances, we may decline the request, mainly where we are unable to verify your identity, for example, if you disable cookies, changed the device you used to access the App or you already requested us to delete your personal data.
 
 Contact
-SayGames has the following contact information:
+ATB Games has the following contact information:
 
-SayGames LLC
-Address: Belarus, Minsk, ul. Platonova 20b/112-1
-E-mail: info@saygames.by
+ATB Games
+Address: Germany, 63322, Erich-Kästner-Straße 41a
+E-mail: ATBGames@outlook.de
 
 You may also contact your local data protection authority for unresolved complaints.
 
