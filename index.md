@@ -1,7 +1,19 @@
-Maze Ball! – Privacy Policy
-Last updated: 29 February 2020
+Privacy Policy
+Last updated: 14 July 2020
 
-This Privacy Policy explains how your personal data is collected and processed by SayGames LLC ("SayGames") when you use the our mobile applications (the "App").
+This Privacy Policy explains how your personal data is collected and processed by ATB Games when you use our mobile applications ("Apps").
+
+
+<b>DEFINITIONS</b>
+“Personal data” or “Data” shall mean any information relating to an identified or identifiable natural person.
+
+“Data controller” shall mean the person that determines the purposes and means of the processing.
+
+The term "SDK" means software development kits. These are external technical tools which are integrated into mobile gaming applications. The SDKs allow us to collect the data detailed below in Article 1.
+
+"Personal Data Processing" means any transaction, or set of operations, relating to such Data, regardless of the process used (collection, registration, organization, preservation, adaptation, modification, extraction, consultation, use, communication by transmission broadcast or any other form of provision, reconciliation or interconnection, locking, deletion or destruction, ...)
+
+
 
 The App is a free to play game (with optional in-game-purchases), and in order to maintain the high quality and a great game experience we process information from and about you in particular to improve the entire experience in the App and to support internal operations.
 
