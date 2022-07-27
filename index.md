@@ -1,19 +1,8 @@
+
 Privacy Policy
-Last updated: 14 July 2020
+Last updated: 27 July 2022
 
-This Privacy Policy explains how your personal data is collected and processed by ATB Games when you use our mobile applications ("Apps").
-
-
-<b>DEFINITIONS</b>
-“Personal data” or “Data” shall mean any information relating to an identified or identifiable natural person.
-
-“Data controller” shall mean the person that determines the purposes and means of the processing.
-
-The term "SDK" means software development kits. These are external technical tools which are integrated into mobile gaming applications. The SDKs allow us to collect the data detailed below in Article 1.
-
-"Personal Data Processing" means any transaction, or set of operations, relating to such Data, regardless of the process used (collection, registration, organization, preservation, adaptation, modification, extraction, consultation, use, communication by transmission broadcast or any other form of provision, reconciliation or interconnection, locking, deletion or destruction, ...)
-
-
+This Privacy Policy explains how your personal data is collected and processed by "ATB Games" when you use the our mobile applications (the "App").
 
 The App is a free to play game (with optional in-game-purchases), and in order to maintain the high quality and a great game experience we process information from and about you in particular to improve the entire experience in the App and to support internal operations.
 
@@ -115,7 +104,7 @@ The App offers or can offer social sharing features and other integrated tools (
 Children
 Use of the App is limited to users aged 13 years and above, except in European Economic Area, where the App is limited to users aged 16 years and above. If you are accepting this Privacy Policy and using the App, you warrant you are 13 (or 16, depends what is applicable) or more years old.
 
-If you have additional questions about ATB Games privacy practices related to children under the applicable minimum age, please contact us at ATBGames@outlook.de.
+If you have additional questions about ATB Games privacy practices related to children under the applicable minimum age, please contact us at atbgames@outlook.de.
 
 Transfer to third countries
 In connection with the processing, we will in certain circumstances transfer your personal data to recipients outside the EEU.
@@ -135,7 +124,7 @@ We send push notifications or alerts to your mobile device to provide game-relat
 Does ATB Games actually "sell" personal data?
 ATB Games does not, and will not, provide your personal data in direct exchange for money. Therefore, in the literal sense, ATB Games does not sell your data. However, we have disclosed some categories of personal data we collect, explained under ”Sharing of information“, to the third parties for business purpose as explained under “Use of information – purpose and legal basis”.
 
-To the extent this practice is interpreted to constitute a “sale” under the CCPA, please contact us at ATBGames@outlook.de to exercise your right to withdraw your consent on sharing your personal data with third parties.
+To the extent this practice is interpreted to constitute a “sale” under the CCPA, please contact us at atbgames@outlook.de to exercise your right to withdraw your consent on sharing your personal data with third parties.
 
 YOUR RIGHTS
 Rights of EEU residents
@@ -201,6 +190,11 @@ You can request us to delete the personal data we have collected on you in the p
 
 We fully recognize you right to deletion, however, we would like to note that in some cases we are obliged to keep your personal data for certain period of time. For instance, if we need to provide services to you, detect or resolve issues security or functionality-related issues, comply with the law, conduct research in the public interest, safeguard the right to free speech or carry out any actions for internal purposes that you might reasonably expect. If we do not have obligations to perform any of the above actions, we can delete your personal information at your request.
 
+Data Deletion Request
+You may request ATB Games to erase without undue delay your personal data when it is no longer necessary for ATB Games to retain such data.
+
+In order for your data to be erased you can contact ATB Games by atbgames@outlook.de with request.
+
 Right to equal services and prices
 California residents are protected against any discrimination that a business might subject them to based on the exercising of their CCPA rights.
 
@@ -211,7 +205,7 @@ Charge you different prices or rates for the App, including through granting dis
 Provide you a different level or quality of the App,
 Suggest that you may receive a different price or rate for services or a different level or quality of the App.
 How to exercise my rights
-If you wish to use any of the rights described below, you may contact us at any time by emailing us at ATBGames@outlook.de
+If you wish to use any of the rights described below, you may contact us at any time by emailing us at atbgames@outlook.de.
 
 Mandatory verification: We will need to verify your identity before processing your request. However, because you cannot create an account with the App, and you do not provide us with any information directly, we only collect information automatically, we may use limited verification methods. To verify your identity, we will generally require the matching data in our systems to the information we can process when you are making a request. In certain circumstances, we may decline the request, mainly where we are unable to verify your identity, for example, if you disable cookies, changed the device you used to access the App or you already requested us to delete your personal data.
 
@@ -223,6 +217,11 @@ Address: Germany, 63322, Erich-Kästner-Straße 41a
 E-mail: ATBGames@outlook.de
 
 You may also contact your local data protection authority for unresolved complaints.
+
+
+
+
+
 
 
 
